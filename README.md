@@ -1,4 +1,4 @@
-![Denoria](https://i.imgur.com/test.png "Denoria Logo")
+![Denoria](https://imgur.com/a/GZ3eOG9 "Denoria Logo")
 
 ## Denoria - Test
 
