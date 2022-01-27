@@ -11,7 +11,7 @@ Pour plus de détails, référez-vous au text de licence disponible [ici](LICENS
 
 - Nom : DenoTest
 - Type : Essai
-- État : En cours
+- État : Perpétuelle amélioration
 - Développeur(s) : Skogrine
 - CDC (Si existant) :
 
