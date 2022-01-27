@@ -17,3 +17,10 @@ Pour plus de détails, référez-vous au text de licence disponible [ici](LICENS
 
 ## Description
 Voici un test que Denoria fournit à celle et ceux qui souhaitent rejoindre l'équipe de développement de Denoria
+
+------------------------------------
+
+## Comment utiliser ce repo ?
+* Vous devez clone ce repo avec cette commande `git clone https://github.com/DenoriaNetwork/DenoriaTest.git`
+* Une fois que vous avez cloné ce repo, il est temps de commencer à programmer.
+* Une fois le travail fini, créer un nouveau repo sur votre compte github en mode Public, et donnez-nous le lien
